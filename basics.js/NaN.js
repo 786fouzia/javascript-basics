@@ -1,0 +1,1 @@
+// NaN stands for not a number
