@@ -1,0 +1,13 @@
+{
+    "name";   "Md Fouzia sultana"
+    "location";"guntur"
+    "skills" ; [
+        "html",
+        "js",
+        "css"
+    ],
+    "hobbies";[
+    "reding",
+    "cooking"
+    ]
+}
